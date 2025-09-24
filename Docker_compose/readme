@@ -1,0 +1,10 @@
+# Ambiente de Desenvolvimento Full-Stack com Docker Compose
+
+Ambiente padronizado e reprodutível para uma aplicação web moderna:
+- **Frontend**: React + Vite (hot-reload)
+- **Backend**: NestJS (hot-reload)
+- **Banco**: PostgreSQL (dados persistentes em volume)
+- **Admin DB**: pgAdmin (preferências persistentes)
+- **Proxy Reverso**: Nginx (roteia `/` → frontend e `/api/*` → backend, removendo `/api`)
+
+## Estrutura
