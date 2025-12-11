@@ -1,0 +1,345 @@
+{
+  "filmes": [
+    {
+      "id": "b79a",
+      "titulo": "Zootopia 2",
+      "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-26",
+      "dataFinalExibicao": "2025-11-26"
+    },
+    {
+      "id": "d2ec",
+      "titulo": "O Troll da Montanha 2",
+      "sinopse": "O despertar de um novo troll causa devastação na Noruega. Agora, Nora, Andreas e o capitão Kris terão que encarar a missão mais perigosa de suas vidas.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-30",
+      "dataFinalExibicao": "2025-11-30"
+    },
+    {
+      "id": "c238",
+      "titulo": "Five Nights at Freddy's 2",
+      "sinopse": "Um ano após o pesadelo sobrenatural na Freddy Fazbear's Pizza, as histórias sobre o que aconteceu ali foram distorcidas, transformando-se em uma lenda local exagerada, inspirando o primeiro Fazfest da cidade. Sem saber a verdade sobre o ocorrido, Abby sai escondida para se reconectar com Freddy, Bonnie, Chica e Foxy, dando início a uma aterrorizante série de eventos que revelarão segredos sombrios sobre a verdadeira origem da Freddy's e libertarão um horror há muito esquecido, escondido por décadas.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-12-03",
+      "dataFinalExibicao": "2025-12-03"
+    },
+    {
+      "id": "ab80",
+      "titulo": "Wildcat",
+      "sinopse": "Sinopse indisponível.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-19",
+      "dataFinalExibicao": "2025-11-19"
+    },
+    {
+      "id": "75e0",
+      "titulo": "Predador: Terras Selvagens",
+      "sinopse": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-05",
+      "dataFinalExibicao": "2025-11-05"
+    },
+    {
+      "id": "c37d",
+      "titulo": "Drácula - Uma História de Amor Eterno",
+      "sinopse": "Na trama, após a morte de sua esposa, um príncipe do século XV renuncia a Deus e se torna um vampiro. Séculos depois, na Londres do século XIX, ele vê uma mulher parecida com sua falecida esposa e a persegue, selando seu próprio destino.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-07-30",
+      "dataFinalExibicao": "2025-07-30"
+    },
+    {
+      "id": "a66c",
+      "titulo": "Chainsaw Man – O Filme: Arco da Reze",
+      "sinopse": "Denji finalmente vive como o temido Homem-Motosserra, um jovem com coração de demônio que integra a Divisão Especial 4 de Caçadores de Demônios. Depois de um encontro marcante com Makima, a mulher de seus sonhos, ele busca refúgio da chuva e acaba conhecendo Reze, a misteriosa atendente de um café.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-09-19",
+      "dataFinalExibicao": "2025-09-19"
+    },
+    {
+      "id": "efa8",
+      "titulo": "A Sombra Do Perigo",
+      "sinopse": "A polícia de Macau remove o policial que é especialista em rastrear a aposentadoria para ajudar a capturar um grupo perigoso de ladrões profissionais.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-08-16",
+      "dataFinalExibicao": "2025-08-16"
+    },
+    {
+      "id": "c0b6",
+      "titulo": "危机航线",
+      "sinopse": "Sinopse indisponível.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2024-09-29",
+      "dataFinalExibicao": "2024-09-29"
+    },
+    {
+      "id": "bdeb",
+      "titulo": "Stephen",
+      "sinopse": "Uma psiquiatra investiga um assassino em série confesso depois que nove garotas desaparecem, mas começa a questionar se ele é culpado ou vítima em um jogo sombrio.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-12-05",
+      "dataFinalExibicao": "2025-12-05"
+    },
+    {
+      "id": "fda1",
+      "titulo": "Altered",
+      "sinopse": "Num presente alternativo, humanos geneticamente aprimorados dominam a sociedade. Os párias Leon e Chloe lutam por justiça contra políticos corruptos que exploram a disparidade genética, arriscando tudo para desafiar o sistema opressor.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-09-18",
+      "dataFinalExibicao": "2025-09-18"
+    },
+    {
+      "id": "481c",
+      "titulo": "Wicked: Parte II",
+      "sinopse": "Elphaba, agora demonizada como a Bruxa Má do Oeste, vive no exílio, escondida na floresta de Oz, e tenta desesperadamente expor a verdade que conhece sobre o Mágico. Enquanto isso, Glinda se tornou o glamouroso símbolo da bondade para todo o reino de Oz e desfruta das vantagens da fama e da popularidade. Quando uma multidão enfurecida se ergue contra a Bruxa Má, Glinda e Elphaba vão precisar se unir uma última vez.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-19",
+      "dataFinalExibicao": "2025-11-19"
+    },
+    {
+      "id": "beff",
+      "titulo": "Plano em Família 2",
+      "sinopse": "Agora que os dias de assassino de Dan ficaram para trás, tudo o que ele quer no Natal é passar um tempo de qualidade com os filhos. Mas quando descobre que a filha tem seus próprios planos, ele marca uma viagem em família para Londres, colocando todos na mira de um inimigo inesperado.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-11",
+      "dataFinalExibicao": "2025-11-11"
+    },
+    {
+      "id": "8c15",
+      "titulo": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
+      "sinopse": "Enquanto os membros dos caçadores e os Hashira participavam de um rigoroso programa de fortalecimento coletivo, conhecido como Treinamento dos Hashira, em preparação para a batalha final contra os demônios, Muzan Kibutsuji aparece na Mansão Ubuyashiki. Com a vida do líder da organização em risco, Tanjiro e os Hashira correm até o quartel-general, mas acabam sendo lançados, pelas mãos de Muzan, em uma queda profunda rumo a um espaço misterioso para um confronto final, o Castelo Infinito.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-07-18",
+      "dataFinalExibicao": "2025-07-18"
+    },
+    {
+      "id": "2a45",
+      "titulo": "JUJUTSU KAISEN: Execução",
+      "sinopse": "Yuji Itadori, acompanhado por seus colegas de classe e outros feiticeiros jujutsu de alto nível, entra na briga em um confronto sem precedentes de maldições: o Incidente de Shibuya. No rescaldo, dez colônias em todo o Japão são transformadas em antros de maldições em um plano orquestrado por Noritoshi Kamo, o feiticeiro mais perverso da história.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-07",
+      "dataFinalExibicao": "2025-11-07"
+    },
+    {
+      "id": "6d61",
+      "titulo": "Jay Kelly",
+      "sinopse": "O astro do cinema Jay Kelly confronta seu passado e seu presente em uma jornada caótica pela Europa com seu dedicado agente. Ao longo do caminho, os dois precisam confrontar os relacionamentos com pessoas queridas e o legado que vão deixar.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-14",
+      "dataFinalExibicao": "2025-11-14"
+    },
+    {
+      "id": "266b",
+      "titulo": "Five Nights at Freddy's - O Pesadelo Sem Fim",
+      "sinopse": "Enquanto passa sua primeira noite no trabalho, um problemático guarda de segurança da Pizzaria Freddy Fazbear logo percebe que não será uma tarefa fácil sobreviver ao seu primeiro turno.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2023-10-25",
+      "dataFinalExibicao": "2023-10-25"
+    },
+    {
+      "id": "6aad",
+      "titulo": "Avatar: Fogo e Cinzas",
+      "sinopse": "Após a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta por poder, liderada pelo implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-12-17",
+      "dataFinalExibicao": "2025-12-17"
+    },
+    {
+      "id": "fe1d",
+      "titulo": "Truque de Mestre: O 3° Ato",
+      "sinopse": "Os Quatro Cavaleiros estão de volta com uma nova geração de ilusionistas e uma trama cheia de reviravoltas, mágicas e surpresas, em um truque que envolve a joia mais valiosa do mundo.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-11-12",
+      "dataFinalExibicao": "2025-11-12"
+    },
+    {
+      "id": "602c",
+      "titulo": "Bugonia",
+      "sinopse": "Dois jovens obcecados por teorias da conspiração sequestram a poderosa CEO de uma grande empresa, convencidos de que ela é uma alienígena com a intenção de destruir o planeta Terra.",
+      "classificacao": "Livre",
+      "duracao": 120,
+      "genero": "Em cartaz (TMDb)",
+      "dataInicioExibicao": "2025-10-23",
+      "dataFinalExibicao": "2025-10-23"
+    }
+  ],
+  "salas": [
+    {
+      "id": "1e16",
+      "numero": 1,
+      "capacidade": 60
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "a57a",
+      "filmeId": "b79a",
+      "salaId": "1e16",
+      "dataHora": "2025-12-16T21:00"
+    },
+    {
+      "id": "34bd",
+      "filmeId": "c238",
+      "salaId": "1e16",
+      "dataHora": "2025-12-11T21:00"
+    }
+  ],
+  "ingressos": [
+    {
+      "id": "d2f9",
+      "sessaoId": "54ca",
+      "tipo": "INTEIRA",
+      "valor": 30
+    },
+    {
+      "id": "3a36",
+      "sessaoId": "54ca",
+      "tipo": "INTEIRA",
+      "valor": 30
+    },
+    {
+      "id": "7ddb",
+      "sessaoId": "2054",
+      "tipo": "INTEIRA",
+      "valor": 30
+    },
+    {
+      "id": "8ece",
+      "sessaoId": "2054",
+      "tipo": "MEIA",
+      "valor": 15
+    },
+    {
+      "id": "cc48",
+      "sessaoId": "34bd",
+      "tipo": "INTEIRA",
+      "valor": 30
+    }
+  ],
+  "lanches": [
+    {
+      "id": "383e",
+      "nome": "Pipoca c/ refri",
+      "descricao": "Pipoca com refrigerante",
+      "valorUnitario": 30,
+      "qtUnidade": 1,
+      "subtotal": 30
+    },
+    {
+      "id": "850e",
+      "nome": "Batata frita",
+      "descricao": "Batata",
+      "valorUnitario": 10,
+      "qtUnidade": 3,
+      "subtotal": 30
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "3611",
+      "sessaoId": "54ca",
+      "qtInteira": 1,
+      "qtMeia": 0,
+      "lanches": [
+        {
+          "lancheId": "320a",
+          "nome": "Pipoca com Refri",
+          "quantidade": 1,
+          "subtotal": 50
+        }
+      ],
+      "valorTotal": 80
+    },
+    {
+      "id": "ce2c",
+      "sessaoId": "54ca",
+      "qtInteira": 1,
+      "qtMeia": 0,
+      "lanches": [],
+      "valorTotal": 30
+    },
+    {
+      "id": "65fc",
+      "sessaoId": "2054",
+      "qtInteira": 1,
+      "qtMeia": 0,
+      "lanches": [],
+      "valorTotal": 30
+    },
+    {
+      "id": "0299",
+      "sessaoId": "2054",
+      "qtInteira": 0,
+      "qtMeia": 1,
+      "lanches": [
+        {
+          "lancheId": "320a",
+          "nome": "Pipoca com Refri",
+          "quantidade": 2,
+          "subtotal": 100
+        }
+      ],
+      "valorTotal": 115
+    },
+    {
+      "id": "73cf",
+      "sessaoId": "34bd",
+      "qtInteira": 1,
+      "qtMeia": 0,
+      "lanches": [
+        {
+          "lancheId": "850e",
+          "nome": "Batata frita",
+          "quantidade": 3,
+          "subtotal": 30
+        },
+        {
+          "lancheId": "383e",
+          "nome": "Pipoca c/ refri",
+          "quantidade": 1,
+          "subtotal": 30
+        }
+      ],
+      "valorTotal": 90,
+      "ingressos": []
+    }
+  ]
+}
